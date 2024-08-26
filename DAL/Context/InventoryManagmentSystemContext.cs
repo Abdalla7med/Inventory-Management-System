@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,8 +17,25 @@ namespace DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             => optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=InventoryManagementSystem;Integrated Security=true;TrustServerCertificate=True");
-        
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
+
+
+        public override int SaveChanges()
+        {
+
+            var Entities = from e in ChangeTracker.Entries()
+                           where e.State == EntityState.Added ||
+                           e.State == EntityState.Modified
+                           select e.Entity;
+
+            foreach(var entity in Entities)
+            {
+                ValidationContext validation = new ValidationContext(entity);
+                Validator.ValidateObject(entity, validation, true);
+            }
+
+            return base.SaveChanges();
+        }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
 
             /// By default the Primary key edited in Fluent API or by using Convention is Auto-incremented 
