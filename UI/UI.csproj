@@ -9,16 +9,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityframeworkCore.Design" Version="8.0.8">
+    <PackageReference Include="microsoft.entityframeworkcore.Design" Version="8.0.8">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BLL\BLL.csproj" />
-    <ProjectReference Include="..\..\DAL\DAL.csproj" />
+    <ProjectReference Include="D:\Back end\DEPI\C#\Inventory Managment System\BLL\BLL.csproj" />
+    <ProjectReference Include="D:\Back end\DEPI\C#\Inventory Managment System\DAL\DAL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4220,21 +4220,20 @@
     },
     "BLL/1.0.0": {
       "type": "project",
-      "path": "../../BLL/BLL.csproj",
-      "msbuildProject": "../../BLL/BLL.csproj"
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
     },
     "DAL/1.0.0": {
       "type": "project",
-      "path": "../../DAL/DAL.csproj",
-      "msbuildProject": "../../DAL/DAL.csproj"
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
       "BLL >= 1.0.0",
       "DAL >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
-      "Microsoft.EntityframeworkCore.Design >= 8.0.8"
+      "microsoft.entityframeworkcore.Design >= 8.0.8"
     ]
   },
   "packageFolders": {
@@ -4244,11 +4243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj",
+      "projectUniqueName": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj",
+      "projectPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\obj\\",
+      "outputPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
@@ -4295,11 +4294,7 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[8.0.8, )"
-          },
-          "Microsoft.EntityframeworkCore.Design": {
+          "microsoft.entityframeworkcore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",

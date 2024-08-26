@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cgIGFxe+kAg=",
+  "dgSpecHash": "p3oM77kNHGY=",
   "success": true,
-  "projectFilePath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj",
+  "projectFilePath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

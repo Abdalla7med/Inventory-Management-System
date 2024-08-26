@@ -10,7 +10,6 @@
         "dependencies": {
           "BLL": "1.0.0",
           "DAL": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.EntityFrameworkCore.Design": "8.0.8"
         },
         "runtime": {

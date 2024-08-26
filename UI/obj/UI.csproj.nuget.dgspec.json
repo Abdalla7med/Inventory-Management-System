@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj": {}
+    "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj": {}
   },
   "projects": {
     "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\BLL\\BLL.csproj": {
@@ -158,14 +158,14 @@
         }
       }
     },
-    "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj": {
+    "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj",
+        "projectUniqueName": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\UI.csproj",
+        "projectPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\Entities\\UI\\obj\\",
+        "outputPath": "D:\\Back end\\DEPI\\C#\\Inventory Managment System\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
@@ -212,11 +212,7 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.8, )"
-            },
-            "Microsoft.EntityframeworkCore.Design": {
+            "microsoft.entityframeworkcore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",

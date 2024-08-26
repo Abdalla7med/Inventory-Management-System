@@ -1,134 +1,378 @@
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.exe
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.deps.json
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.pdb
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.Form1.resources
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\refint\UI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.pdb
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\ref\UI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Core.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.pdb
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.pdb
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Humanizer.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Back end\DEPI\C#\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.CatogryManagement.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.InventoryManagementSystem.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.InventoryStatues.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.Reports.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.Search.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.TransactionRecording.resources
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\DELL\Downloads\D13 - Tiers Trial\D13 - Tiers Trial\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.CatogryManagement.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.InventoryManagementSystem.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.InventoryStatues.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.Reports.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.Search.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.TransactionRecording.resources
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\DELL\Downloads\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.ProductDetailsForm.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.CatogryManagement.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.InventoryManagementSystem.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.InventoryStatues.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.Reports.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.Search.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.TransactionRecording.resources
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\OneDrive - Faculty of Computers and Information\Desktop\Inventory Managment System\Entities\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\UI.exe
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\UI.deps.json
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\UI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\UI.pdb
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\BLL.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\DAL.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\BLL.pdb
+D:\Back end\DEPI\C#\Inventory Managment System\UI\bin\Debug\net8.0-windows\DAL.pdb
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.CatogryManagement.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.InventoryManagementSystem.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.InventoryStatues.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.ProductManagement.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.Reports.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.Search.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.TransactionRecording.resources
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.sourcelink.json
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.csproj.Up2Date
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\refint\UI.dll
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.pdb
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+D:\Back end\DEPI\C#\Inventory Managment System\UI\obj\Debug\net8.0-windows\ref\UI.dll
